@@ -51,7 +51,7 @@
 
 @media only screen and (max-width:530px) and (min-width:470px) {
     .item {
-        padding: 12px;
+        padding: 8px;
     }
 
     .item a {
@@ -92,7 +92,7 @@
     }
 
     .item {
-        padding: 12px;
+        padding: 6px;
     }
 
     .item a {
